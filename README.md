@@ -1,2 +1,2 @@
 # MyCV
-My CV
+HTML with Bootstrap and external CSS
